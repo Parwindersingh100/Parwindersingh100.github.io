@@ -7,12 +7,20 @@ My name is Parwinder singh I am from Vill- Jakhepal (Sangrur) I did my schooling
 
 
 
+### My Excel Certificate
+
+![Screenshot 2024-07-27 124325](https://github.com/user-attachments/assets/aa67e5fa-a2c6-4b82-8139-7cdfe4385a96)
+
+
+
 |Physics|Chemistry|Math|English|Physical Education|
 |:-|:-|:-|:-|:-|
 |79|72|73|84|78|
 
 ### To contact me:
 
-[click here](https://www.instagram.com/prwinder7?igsh=MWx5YmsyanAyMTB2NA%3D%3D&utm_source=qr)
+[Click Here](https://www.instagram.com/prwinder7?igsh=MWx5YmsyanAyMTB2NA%3D%3D&utm_source=qr)
 
 ### Daily Blog
+
+[Click Here](https://parwindersingh100.github.io/dailyblog.github.io/)
